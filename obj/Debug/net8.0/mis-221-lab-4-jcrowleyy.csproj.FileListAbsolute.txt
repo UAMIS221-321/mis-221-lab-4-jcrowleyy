@@ -1,0 +1,15 @@
+C:\Users\joeyj\OneDrive\Documents\MIS221\Labs\mis-221-lab-4-jcrowleyy\bin\Debug\net8.0\mis-221-lab-4-jcrowleyy.exe
+C:\Users\joeyj\OneDrive\Documents\MIS221\Labs\mis-221-lab-4-jcrowleyy\bin\Debug\net8.0\mis-221-lab-4-jcrowleyy.deps.json
+C:\Users\joeyj\OneDrive\Documents\MIS221\Labs\mis-221-lab-4-jcrowleyy\bin\Debug\net8.0\mis-221-lab-4-jcrowleyy.runtimeconfig.json
+C:\Users\joeyj\OneDrive\Documents\MIS221\Labs\mis-221-lab-4-jcrowleyy\bin\Debug\net8.0\mis-221-lab-4-jcrowleyy.dll
+C:\Users\joeyj\OneDrive\Documents\MIS221\Labs\mis-221-lab-4-jcrowleyy\bin\Debug\net8.0\mis-221-lab-4-jcrowleyy.pdb
+C:\Users\joeyj\OneDrive\Documents\MIS221\Labs\mis-221-lab-4-jcrowleyy\obj\Debug\net8.0\mis-221-lab-4-jcrowleyy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeyj\OneDrive\Documents\MIS221\Labs\mis-221-lab-4-jcrowleyy\obj\Debug\net8.0\mis-221-lab-4-jcrowleyy.AssemblyInfoInputs.cache
+C:\Users\joeyj\OneDrive\Documents\MIS221\Labs\mis-221-lab-4-jcrowleyy\obj\Debug\net8.0\mis-221-lab-4-jcrowleyy.AssemblyInfo.cs
+C:\Users\joeyj\OneDrive\Documents\MIS221\Labs\mis-221-lab-4-jcrowleyy\obj\Debug\net8.0\mis-221-lab-4-jcrowleyy.csproj.CoreCompileInputs.cache
+C:\Users\joeyj\OneDrive\Documents\MIS221\Labs\mis-221-lab-4-jcrowleyy\obj\Debug\net8.0\mis-221-lab-4-jcrowleyy.sourcelink.json
+C:\Users\joeyj\OneDrive\Documents\MIS221\Labs\mis-221-lab-4-jcrowleyy\obj\Debug\net8.0\mis-221-lab-4-jcrowleyy.dll
+C:\Users\joeyj\OneDrive\Documents\MIS221\Labs\mis-221-lab-4-jcrowleyy\obj\Debug\net8.0\refint\mis-221-lab-4-jcrowleyy.dll
+C:\Users\joeyj\OneDrive\Documents\MIS221\Labs\mis-221-lab-4-jcrowleyy\obj\Debug\net8.0\mis-221-lab-4-jcrowleyy.pdb
+C:\Users\joeyj\OneDrive\Documents\MIS221\Labs\mis-221-lab-4-jcrowleyy\obj\Debug\net8.0\mis-221-lab-4-jcrowleyy.genruntimeconfig.cache
+C:\Users\joeyj\OneDrive\Documents\MIS221\Labs\mis-221-lab-4-jcrowleyy\obj\Debug\net8.0\ref\mis-221-lab-4-jcrowleyy.dll
